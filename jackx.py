@@ -93,8 +93,8 @@ jalan("\033[1;96m•◈•   _____
 jalan("\033[1;96m•◈•  / ____|
 jalan("\033[1;97m•◈• | (___  
 jalan("\033[1;96m•◈•  \___ \ 
-jalan("\033[1;96m•◈•  ____) |    
-jalan("\033[1;96m•◈• |_____/  AQIB UR REHMAN
+jalan("\033[1;96m...  ____) |    
+jalan("\033[1;96m•◈• |_____/AQIB UR REHMAN
  
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
